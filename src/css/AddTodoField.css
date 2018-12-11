@@ -1,0 +1,28 @@
+form {
+    margin: auto;
+    margin-top: 10px;
+    width: 25%;
+    font-family: "Roboto";
+}
+
+.AddTodoField-input-text {
+    width: 75%;
+    height: 30px;
+    border: 1px solid gainsboro;
+    border-radius: 1px;
+    text-indent: 10px;
+   
+}
+
+.AddTodoField-input-submit-button {
+    background-color: #2687c7;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
